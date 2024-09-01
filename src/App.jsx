@@ -1,4 +1,5 @@
 import CoreConcept from './components/CoreConcept.jsx';
+import CoreConcepts from './components/CoreConcepts.jsx';
 import Examples from './components/Examples.jsx';
 
 function App() {
@@ -7,7 +8,7 @@ function App() {
     <div>
       <main>
         <Examples />
-        <CoreConcept />
+        <CoreConcepts />
       </main>
     </div>
   );
